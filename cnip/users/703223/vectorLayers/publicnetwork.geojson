@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sql_statement",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "siteid": "1", "sitename": "new site 1", "longitude": 67.154366579609601, "latitude": 24.946669009728499, "height": "6", "region": "", "country": "", "city": "", "district": "", "province": "", "address": "", "comments": "", "technology": "4G", "band": "B08_FDD_900 E-GSM", "bandwidth": "10", "cellid": "10001", "lac": "1236", "rfcn": "3450", "rfid": "0", "dlfrequency": "925", "ulfrequency": "880", "rfpower": "1", "hba": "6", "azimuth": "0", "antennamodel": "LT OD9-5 890-950 MHz", "antennatype": "Omni", "polarization": "Vertical", "vbeamwidth": "36", "hbeamwidth": "360", "downtilt": "0", "antennagain": "5", "feederloss": "0", "name": "Ali", "email": "admin@facebook.com" }, "geometry": { "type": "Point", "coordinates": [ 67.154366579609601, 24.946669009728499 ] } }
+]
+}
